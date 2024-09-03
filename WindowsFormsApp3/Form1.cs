@@ -170,6 +170,7 @@ namespace WindowsFormsApp3
             pauseTimer.Tick += PauseTimer_Tick;
         }
 
+        //мусорный комментарий
         public void Draw(Graphics g)
         {
             int liftWidth = building.ShaftWidth - 20;
